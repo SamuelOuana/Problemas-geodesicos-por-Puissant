@@ -1,0 +1,9 @@
+E:\Biblioteca E\CIG\Programacao\Visual Basic\Problemas geodesicos por Puissant\Problemas geodesicos por Puissant\bin\Debug\Problemas geodesicos por Puissant.exe
+E:\Biblioteca E\CIG\Programacao\Visual Basic\Problemas geodesicos por Puissant\Problemas geodesicos por Puissant\bin\Debug\Problemas geodesicos por Puissant.pdb
+E:\Biblioteca E\CIG\Programacao\Visual Basic\Problemas geodesicos por Puissant\Problemas geodesicos por Puissant\bin\Debug\Problemas geodesicos por Puissant.xml
+E:\Biblioteca E\CIG\Programacao\Visual Basic\Problemas geodesicos por Puissant\Problemas geodesicos por Puissant\obj\x86\Debug\Problemas_geodesicos_por_Puissant.frmProblemasGeodesicos.resources
+E:\Biblioteca E\CIG\Programacao\Visual Basic\Problemas geodesicos por Puissant\Problemas geodesicos por Puissant\obj\x86\Debug\Problemas_geodesicos_por_Puissant.Resources.resources
+E:\Biblioteca E\CIG\Programacao\Visual Basic\Problemas geodesicos por Puissant\Problemas geodesicos por Puissant\obj\x86\Debug\Problemas geodesicos por Puissant.vbproj.GenerateResource.Cache
+E:\Biblioteca E\CIG\Programacao\Visual Basic\Problemas geodesicos por Puissant\Problemas geodesicos por Puissant\obj\x86\Debug\Problemas geodesicos por Puissant.exe
+E:\Biblioteca E\CIG\Programacao\Visual Basic\Problemas geodesicos por Puissant\Problemas geodesicos por Puissant\obj\x86\Debug\Problemas geodesicos por Puissant.xml
+E:\Biblioteca E\CIG\Programacao\Visual Basic\Problemas geodesicos por Puissant\Problemas geodesicos por Puissant\obj\x86\Debug\Problemas geodesicos por Puissant.pdb
